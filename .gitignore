@@ -1,0 +1,10 @@
+# ROS 2 ignore rules
+build/
+install/
+log/
+*.swp
+*.pyc
+__pycache__/
+.vscode/
+.idea/
+*.csv
